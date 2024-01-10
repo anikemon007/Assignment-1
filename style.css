@@ -1,0 +1,67 @@
+* {
+    font-family: 'Merriweather', serif;
+
+
+}
+
+/* banner style */
+.banner {
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%), url(resources/Banner\ Image.png );
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    max-width: 1320px;
+    height: 600px;
+    margin-bottom: 120px;
+
+
+}
+
+.small-intro {
+    color: #FFF;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 400;
+    padding-top: 180px;
+
+}
+
+.big-intro {
+    color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    width: 632px;
+    padding-left: 345px;
+
+}
+
+/* main section style */
+.discount-container {
+    text-align: center;
+}
+
+.discount {
+    color: #F00;
+    font-size: 88px;
+    font-weight: 700;
+    
+
+}
+
+.discount-description {
+    color: #F00;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+
+.discount-catagory {
+    color: #070211;
+    font-size: 48px;
+    font-weight: 700;
+
+}
+.happy-new-year-image{
+    margin-left: 260px;
+}
